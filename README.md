@@ -1,6 +1,5 @@
 # Profit and Loss Analysis
-The goal of this case study is to analyze customer data to derive insights about sales, profit, marketing expenditure, and other related factors. The analysis aims to understand sales performance across different states, identify the most sold items, and optimize profitability.
-#Dataset
+The goal of this case study is to analyze customer data to derive insights about sales, profit, marketing expenditure, and other related factors. The analysis aims to understand sales performance across different states, identify the most sold items, and optimize profitability based on following 3 tables.
 # 1.Fact Table
 Columns: Date, ProductID, Profit, Sales, Margin, COGS (Cost of Goods Sold), Total Expenses, Marketing, Inventory, Budget Profit, Budget COGS, Budget Margin, Budget Sales, Area Code
 Description: Contains detailed transactional data including sales, profit, marketing expenses, and budget-related information.
